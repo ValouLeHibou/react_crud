@@ -1,0 +1,11 @@
+{
+  "users": [
+    { "id": 1, "fistname": "Valentin", "lastname": "Guilbaud", "image": "https://www.cinepremiere.com.mx/wp-content/uploads/2020/02/mushu-mulan.jpg", "role": "admin", "email": "val@gmail.com", "creation_date": "14/05/2021" }
+  ],
+  "articles": [
+    { "id": 1, "name": "Le rembobineur de DVD", "image": "http://www.fenoweb.com/sites/www.fenoweb.com/files/ARTICLES-IMAGES/top-des-objets-qui-servent-a-rien/meilleurs-des-objets-inutiles-001-rembobineur-de-dvd.jpg", "descr": "Logique mais indispensable",  "price": "10", "user_id": "1", "creation_date": "14/05/2021" },
+    { "id": 2, "name": "Spray pour croire en Dieu", "image": "http://www.fenoweb.com/sites/www.fenoweb.com/files/ARTICLES-IMAGES/top-des-objets-qui-servent-a-rien/meilleurs-des-objets-inutiles-021-spray-qui-redonne-foi-en-dieu.jpg", "descr": "Tester c'est l'adopter",  "price": "50", "user_id": "1", "creation_date": "14/05/2021" },
+    { "id": 3, "name": "Clavier punaise", "image": "http://www.fenoweb.com/sites/www.fenoweb.com/files/ARTICLES-IMAGES/top-des-objets-qui-servent-a-rien/meilleurs-des-objets-inutiles-004-clavier-ordinateur-punaise.jpg", "descr": "Pour une meilleure frappe",  "price": "20", "user_id": "1", "creation_date": "14/05/2021" },
+    { "id": 4, "name": "Bottes d'été", "image": "http://www.fenoweb.com/sites/www.fenoweb.com/files/ARTICLES-IMAGES/top-des-objets-qui-servent-a-rien/meilleurs-des-objets-inutiles-029-botte-ouverte-pied-trempee.jpg", "descr": "Une fraicheur pour les pieds",  "price": "20", "user_id": "1", "creation_date": "14/05/2021" }
+  ]
+}
